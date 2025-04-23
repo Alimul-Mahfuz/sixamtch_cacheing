@@ -4,7 +4,7 @@
 
 
 
-In this app there is list of 1 M Product. To effectively access product info here Redis cache is used for faster data retrieval.
+In this app there is list of 10K Product. To effectively access product info here Redis cache is used for faster data retrieval.
 
 ## How to setup the project
 ##### 1. Clone the git hub repository
