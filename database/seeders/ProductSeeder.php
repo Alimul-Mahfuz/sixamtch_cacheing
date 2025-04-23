@@ -9,7 +9,7 @@ class ProductSeeder extends Seeder
 {
     public function run(): void
     {
-        $total = 100000;
+        $total = 1000000;
         $chunkSize = 1000;
 
         for ($i = 0; $i < $total; $i += $chunkSize) {
